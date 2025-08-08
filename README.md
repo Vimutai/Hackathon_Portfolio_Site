@@ -1,6 +1,6 @@
 # Personal Portfolio – Hackathon Challenge
 
-This is my personal portfolio website created for the PLP Academy Hackathon. It showcases my skills, projects, education, and more — all built using **HTML and CSS only**.
+This is my personal portfolio website created for the PLP Academy Hackathon. It showcases my skills, projects, education, and more  all built using **HTML and CSS only**.
 
 ## 🔗 Live Site
 [View the portfolio website](https://vimutai.github.io/Hackathon_Portfolio_Site/)
